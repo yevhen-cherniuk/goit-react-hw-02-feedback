@@ -1,0 +1,23 @@
+.section {
+  margin-left: -20px;
+}
+
+.btn {
+  margin-left: 20px;
+  cursor: pointer;
+  min-width: 100px;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #b7c222;
+  font-size: 22px;
+  border-radius: 26px;
+  margin-bottom: 30px;
+}
+.btn:hover,
+:focus {
+  color: tomato;
+  background-color: rgb(184, 176, 176);
+}
